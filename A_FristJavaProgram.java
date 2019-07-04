@@ -8,6 +8,7 @@ public class A_FristJavaProgram {
 		System.out.println("환영합니다 Java");
 		System.out.println("Frist java program");
 		System.out.println(3+5);
+		//연습
 	}
 
 }
